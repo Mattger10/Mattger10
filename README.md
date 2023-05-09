@@ -3,7 +3,7 @@ Hola, soy Matías!
 
 👉 ABOUT ME 👈
 
- Soy un desarrollador front end de JavaScript. Estoy en busca de proyectos y desafíos para poner en práctica mis habilidades y conocimientos adquiridos durante mi tiempo en el bootcamp de Soy Henry. Desde que empecé en enero de 2023, no he dejado de aprender y adquirir nuevos conocimientos. Me considero una persona amistosa y me gusta llevarme bien con todos. Algunos de mis hobbies son jugar videojuegos, leer, ver videos y aprender cosas nuevas, también me gusta mucho viajar y conocer lugares nuevos. Me motiva el desafío y siempre doy lo mejor de mí en todo lo que hago. Actualmente estoy abierto a ofertas laborales y creo que puedo aportar cosas interesantes a las empresas o proyectos que me necesiten debido a mi capacidad de adaptación, responsabilidad y flexibilidad.
+ Soy un desarrollador con preferencia en front end. Estoy en busca de proyectos y desafíos para poner en práctica mis habilidades y conocimientos adquiridos durante mi tiempo en el bootcamp de Soy Henry. Desde que empecé en enero de 2023, no he dejado de aprender y adquirir nuevos conocimientos. Me considero una persona amistosa y me gusta llevarme bien con todos. Algunos de mis hobbies son jugar videojuegos, leer, ver videos y aprender cosas nuevas, también me gusta mucho viajar y conocer lugares nuevos. Me motiva el desafío y siempre doy lo mejor de mí en todo lo que hago. Actualmente estoy abierto a ofertas laborales y creo que puedo aportar cosas interesantes a las empresas o proyectos que me necesiten debido a mi capacidad de adaptación, responsabilidad y flexibilidad.
 
 
 👉 TECH SKILLS 👈
